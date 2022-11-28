@@ -1,4 +1,4 @@
--Firstly, for cloning the repo locally, I used 'git clone <address>'
+-Firstly, for cloning the repo locally, I used 'git clone address'
 
 -Created the new directory with 'mkdir solution'
   
