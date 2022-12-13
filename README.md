@@ -14,7 +14,7 @@
 [Task-05](https://github.com/DeadlockVector/amfoss-Tasks/tree/main/Task-05)|Find The Bug|Completed
 Task-06|Flame Game|Attempted but not completed
 Task-07|GO Wasm| Attempted but not completed
-Task-08|Inernet Explorer|Completed
+Task-08|Internet Explorer|Completed
 Task-09|Rust|Attempted but not completed
 Task-10|CS50|Half way
 
