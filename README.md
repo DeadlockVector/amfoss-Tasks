@@ -19,7 +19,7 @@ Task-09|Rust|Attempted but not completed
 Task-10|CS50|Half way
 
 ## My view about the tasks
-I haven't exactly completed all the tasks but I've gone through all of them and they are doable if you put in the time management and effort. There's a wide range of programming fields covered by each task and it certainly gives an insight on what to follow. Hackerrank was the most fun to do personally followed by the telegram bot.
+I haven't exactly completed all the tasks but I've gone through all of them and they are doable if you put in the time and effort. There's a wide range of programming concepts covered by each task and it certainly gave an insight on what interests to follow up on. Hackerrank was the most fun to do personally followed by the telegram bot.
 
 ## Intro
 Hey everyone, I found out about amFOSS through quora and would love to be part of the family. I've done only python/mysql before but after doing the entry tasks I've learnt there's a lot more to CS than just plain competitive programming. I also want to learn how to and start contributing to open source projects soon. My favourite pass-times are basketball and speedcubing.
