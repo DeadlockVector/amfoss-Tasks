@@ -7,3 +7,8 @@ I'm very interested in learning how to contribute to open source platforms and I
 -Also start learning C++
 
 ## How would you contribute back to the club?
+I'll prioritise the tasks and projects assigned to me and I'm looking forward to continue the legacy that AmFoss built over the years.
+I'm ready to stay back after class as required by the club and will put in my all during competitions and hackathons
+
+## Feedback on the Selection Process
+Its certainly very intimidating for someone without a background in computer science but I assume pravesham is more than just about completing the tasks, its also about learning how to learn and overcome errors(google it till you make it). The tasks also give us an intro on different kinds of applications we can develop and the variety in the field of CS. Overall its a solid selection process to test who all actually want to join the club seriously and get better.
