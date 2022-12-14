@@ -44,5 +44,5 @@
   
  
  ## Screenshot
- ![image](https://github.com/DeadlockVector/amfoss-Tasks/blob/main/Task-02/Screenshot%20from%202022-11-28%2022-17-10.png
+ ![image](https://github.com/DeadlockVector/amfoss-Tasks/blob/main/Task-02/Screenshot%20from%202022-11-28%2022-17-10.png)
   
