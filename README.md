@@ -15,7 +15,7 @@
 Task-06|Flame Game|Attempted but not completed
 Task-07|GO Wasm| Attempted but not completed
 Task-08|Internet Explorer|Completed
-Task-09|Rust|Attempted 
+Task-09|Rust|Completed
 Task-10|CS50|Not Attempted
 
 ## My view about the tasks
