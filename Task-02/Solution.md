@@ -42,6 +42,7 @@
   
 - Used rm to remove part1.txt, part2.txt, part3.txt and part4.txt
   
-  
-  ## Screenshot of Success
+ 
+ ## Screenshot
+ ![image](https://github.com/DeadlockVector/amfoss-Tasks/blob/main/Task-02/Screenshot%20from%202022-11-28%2022-17-10.png
   
