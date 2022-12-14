@@ -42,3 +42,6 @@
   
 - Used rm to remove part1.txt, part2.txt, part3.txt and part4.txt
   
+  
+  ## Screenshot of Success
+  ![my screenshot](../Task-02/Screenshot from 2022-11-28 22-17-10.png)
