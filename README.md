@@ -17,6 +17,7 @@ Task-07|GO Wasm| Attempted but not completed
 Task-08|Internet Explorer|Completed
 Task-09|Rust|Completed
 Task-10|CS50|Not Attempted
+Task-13|Footfall Counter|Completed
 
 ## My view about the tasks
 I haven't exactly completed all the tasks but I've gone through all of them and they are doable if you put in the time and effort. There's a wide range of programming concepts covered by each task and it certainly gave an insight on what interests to follow up on. Web Scraping with Rust was the most fun to do personally followed by the Hackerrank questions.
